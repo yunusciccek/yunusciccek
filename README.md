@@ -3,9 +3,9 @@
 
 
 
-- 🔭 Şu an ne yapıyorum **Full Stack olarak çalışıyorum**
+- 🔭 Şu an ne yapıyorum: **Full Stack olarak çalışıyorum**
 
-- 🌱 Şu anda öğreniyorum **C#**
+- 🌱 Şu anda öğreniyorum: **C#**
 
 - 📫Bana nasıl ulaşabilirsiniz? **yunus1187@hotmail.com**
 
