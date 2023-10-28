@@ -5,7 +5,7 @@
 
 - 🔭 Şu an **Full Stack** projeler üzerine çalışıyorum
 
-- 🌱 Şu anda öğreniyorum: **C#**
+- 🌱 Şu anda **C#** öğreniyorum
 
 - 📫Bana nasıl ulaşabilirsiniz? **yunus1187@hotmail.com**
 
