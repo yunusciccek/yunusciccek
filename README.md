@@ -3,7 +3,7 @@
 
 
 
-- 🔭 Üzerinde çalıştığım proje **Carpedu**
+- 🔭 Şu an ne yapıyorum **Full Stack olarak çalışıyorum**
 
 - 🌱 Şu anda öğreniyorum **C#**
 
