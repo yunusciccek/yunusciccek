@@ -3,7 +3,7 @@
 
 
 
-- 🔭 Şu an ne yapıyorum: **Full Stack olarak çalışıyorum**
+- 🔭 Şu an **Full Stack** projeler üzerine çalışıyorum
 
 - 🌱 Şu anda öğreniyorum: **C#**
 
