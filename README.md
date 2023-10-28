@@ -9,7 +9,7 @@
 
 - 🔭 Üzerinde çalıştığım proje **Carpedu**
 
-- 🌱 Şu anda öğreniyorum **c#**
+- 🌱 Şu anda öğreniyorum **C#**
 
 - 📫Bana nasıl ulaşabilirsiniz? **yunus1187@hotmail.com**
 
