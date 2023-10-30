@@ -5,7 +5,7 @@
 
 - 🔭 Şu an **Full Stack** projeler üzerine çalışıyorum
 
-- 🌱 Şu anda **C#** öğreniyorum
+- 🌱 Şu anda **djange-rest-framework ve react** yazıyorum
 
 - 📫Bana nasıl ulaşabilirsiniz? **yunus1187@hotmail.com**
 
