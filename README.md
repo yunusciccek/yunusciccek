@@ -7,7 +7,7 @@
 
 - 🌱 Şu anda **django-rest-framework ve react** yazıyorum
 
-- 📫Bana nasıl ulaşabilirsiniz? **yunus1187@hotmail.com**
+- 📫Bana nasıl ulaşabilirsiniz? **yunusciccek@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
